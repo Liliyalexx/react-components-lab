@@ -15,4 +15,8 @@ section {
   .weather span {
     font-weight: bold;
   }
+  .weather h2,
+.weather p {
+  color: black;
+}
   
